@@ -2,7 +2,7 @@
 node_modules
 /dist
 # /lib
-src
+# src
 
 # local env files
 .env.local
